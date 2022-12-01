@@ -1,0 +1,29 @@
+# Class
+# class tst:
+#     x=int(input("Enter 1st number - "))
+#     y=int(input("Enter 2nd number - "))
+#     c=(x+y)
+
+# # Create a object
+# a= tst()
+# b= tst()
+# print(a.c)
+# print(b.y)
+
+# class name:
+#     def __init__(self,name,age):
+#         self.name= input("Enter name - ")
+#         self.age = int(input("Enter age- "))
+        
+# a= name("a", 3)
+
+# print(a.name)
+# print(a.age)
+
+class name1:
+    def __init__(self,name,age):
+        self.name= name
+        self.age = age
+
+x = name1("asd",7
+fsu-tzwx-kht
